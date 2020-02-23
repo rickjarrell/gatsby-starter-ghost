@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://adoring-rosalind-0ad0d9.netlify.com/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "4753f338-1a07-4187-8007-e6c5c343dbc9"
   },
   "production": {
     "apiUrl": "https://adoring-rosalind-0ad0d9.netlify.com/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "4753f338-1a07-4187-8007-e6c5c343dbc9"
   }
 }
